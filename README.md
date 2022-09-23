@@ -7,4 +7,4 @@ You can find my Tableau projects here: https://public.tableau.com/app/profile/do
 
 For R you can find a Jupyter Notebbok where I use ANOVA and ANCOVA to analyse the NYCflights Dataset.
 
-You can also find some SQL scripts demonstrating my capabilities with SQL where I query some data conatinign information about the COVID-19 Pandemic.
+You can also find some SQL scripts demonstrating my capabilities with SQL where I query some data containign information about the COVID-19 Pandemic.
